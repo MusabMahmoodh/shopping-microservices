@@ -1,0 +1,5 @@
+/home/musab/projects/learnings/micro-services-demo/inventory-service/src/main/java/com/musab/invetoryService/service/InventoryService.java
+/home/musab/projects/learnings/micro-services-demo/inventory-service/src/main/java/com/musab/invetoryService/repository/InventoryRepository.java
+/home/musab/projects/learnings/micro-services-demo/inventory-service/src/main/java/com/musab/invetoryService/InventoryServiceApplication.java
+/home/musab/projects/learnings/micro-services-demo/inventory-service/src/main/java/com/musab/invetoryService/controller/InventoryController.java
+/home/musab/projects/learnings/micro-services-demo/inventory-service/src/main/java/com/musab/invetoryService/model/Inventory.java

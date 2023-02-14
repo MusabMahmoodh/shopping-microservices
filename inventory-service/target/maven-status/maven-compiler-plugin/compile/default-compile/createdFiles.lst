@@ -1,0 +1,5 @@
+com/musab/invetoryService/controller/InventoryController.class
+com/musab/invetoryService/InventoryServiceApplication.class
+com/musab/invetoryService/model/Inventory.class
+com/musab/invetoryService/service/InventoryService.class
+com/musab/invetoryService/repository/InventoryRepository.class

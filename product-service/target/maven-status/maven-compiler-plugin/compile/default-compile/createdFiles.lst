@@ -1,0 +1,10 @@
+com/musab/productservice/controller/ProductController.class
+com/musab/productservice/model/Product.class
+com/musab/productservice/model/Product$ProductBuilder.class
+com/musab/productservice/repository/ProductRepository.class
+com/musab/productservice/service/ProductService.class
+com/musab/productservice/dto/NewProductResponse.class
+com/musab/productservice/dto/NewProductRequest.class
+com/musab/productservice/dto/NewProductResponse$NewProductResponseBuilder.class
+com/musab/productservice/ProductServiceApplication.class
+com/musab/productservice/dto/NewProductRequest$NewProductRequestBuilder.class

@@ -1,0 +1,10 @@
+com/musab/orderservice/model/OrderLineItem.class
+com/musab/orderservice/dto/NewOrderRequest.class
+com/musab/orderservice/model/Order.class
+com/musab/orderservice/service/OrderService.class
+com/musab/orderservice/dto/InventoryResponse.class
+com/musab/orderservice/dto/OrderLineItemsDto.class
+com/musab/orderservice/OrderServiceApplication.class
+com/musab/orderservice/repository/OrderRepository.class
+com/musab/orderservice/controller/OrderController.class
+com/musab/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class

@@ -1,0 +1,7 @@
+/home/musab/projects/learnings/micro-services-demo/product-service/src/main/java/com/musab/productservice/repository/ProductRepository.java
+/home/musab/projects/learnings/micro-services-demo/product-service/src/main/java/com/musab/productservice/ProductServiceApplication.java
+/home/musab/projects/learnings/micro-services-demo/product-service/src/main/java/com/musab/productservice/dto/NewProductRequest.java
+/home/musab/projects/learnings/micro-services-demo/product-service/src/main/java/com/musab/productservice/service/ProductService.java
+/home/musab/projects/learnings/micro-services-demo/product-service/src/main/java/com/musab/productservice/model/Product.java
+/home/musab/projects/learnings/micro-services-demo/product-service/src/main/java/com/musab/productservice/dto/NewProductResponse.java
+/home/musab/projects/learnings/micro-services-demo/product-service/src/main/java/com/musab/productservice/controller/ProductController.java
